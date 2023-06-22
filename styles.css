@@ -1,0 +1,34 @@
+#jaisyn1 {
+    border-style: ridge;
+    padding: 40px;
+    margin: 10px;
+    width: 200px;
+    height: 100px;
+    background-color: rgb(181, 137, 217);
+    color:  rgb(240, 199, 239);
+    font-family: Garamond;
+}
+
+#jaisyn2 {
+    border-style: groove;
+    padding: 50px;
+    margin: 40px;
+    width: 100px;
+    height: 50px;
+    background-color: rgb(240, 199, 239);
+    color: rgb(181, 137, 217);
+    font-family: Garamond;
+}
+    
+body {
+    background-color: lightblue; 
+}
+
+#august {
+    background-color: rgb(189, 183, 183);
+    color: white;
+    
+}
+
+
+    
